@@ -1,13 +1,9 @@
-import { useState } from 'react'
-
-import './App.css'
-import Owner from './components/Owner'
-
+import React from 'react'
+import Home from './components/Home'
 function App() {
- 
 
   return (
-    <Owner />
+    <Home />
   )
 }
 
